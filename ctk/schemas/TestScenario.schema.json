@@ -1,0 +1,1 @@
+{"$schema": "http://json-schema.org/schema#", "type": "object", "properties": {"description": {"type": "string"}, "testScenarioDefinition": {"type": "object"}, "version": {"type": "string"}}, "required": ["description", "testScenarioDefinition", "version"]}
